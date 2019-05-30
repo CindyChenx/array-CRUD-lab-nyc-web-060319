@@ -3,15 +3,15 @@ def create_an_empty_array
 end
 
 def create_an_array
-   # Array = [1,2,3,4]
+   Array = [1,2,3,4]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  Array.push(5)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  Array.
 end
 
 def remove_element_from_end_of_array(array)
